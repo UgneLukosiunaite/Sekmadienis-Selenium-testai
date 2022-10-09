@@ -14,7 +14,7 @@ public class Main {
                 System.out.println("Timer: " + (i+1));
             }
         } catch (InterruptedException e) {
-            System.out.println("Interupted exxeption invoced");
+            System.out.println("Interrupted exception invoked");
         }
 
 
